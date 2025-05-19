@@ -5,30 +5,30 @@ This repository is a curated collection of programming and software development 
 
 ## Projects Included
 
-- ** Operating Systems Simulation**  
+- Operating Systems Simulation
   Simulated CPU process scheduling and resource management using FCFS and Preemptive Priority algorithms.
 
-- ** AI Game Agent (Gomoku with MPI)**  
+- AI Game Agent (Gomoku with MPI)
   Implemented a parallel game-playing AI using the Minimax algorithm, distributed via MPI for concurrent evaluation.
 
-- ** E-Spaza Full-Stack Web Platform**  
+- E-Spaza Full-Stack Web Platform 
   Group project: Developed a full-stack web application for managing inventory and placing orders across multiple spaza shops.  
   _Tech: React, Node.js, PostgreSQL, GraphQL, TypeScript, HTML/CSS_
 
-- ** Markdown Notes App**  
+- Markdown Notes App
   Group project: Real-time collaborative markdown note-taking application with WebSocket integration.  
   _Tech: React, Tailwind CSS, Node.js, PostgreSQL_
 
-- ** AMPL Compiler**  
+- AMPL Compiler
   Built full compilers for the SIMPL & AMPL languages including lexical analysis, parsing, semantic checks, and code generation targeting the JVM via Jasmin.
 
-- ** Image Compression with Automata**  
+- Image Compression with Automata
   Used automata theory to compress and decompress black-and-white images by mapping pixel addresses to finite automata representations.
 
-- ** StackOverflow API Clone**  
+- StackOverflow API Clone
   REST API project mimicking StackOverflow functionality using Flask and data scraped with BeautifulSoup.
 
-- ** Data Structures & Algorithms**  
+- Data Structures & Algorithms 
   Coursework implementations of classic algorithms and data structures in C, Java, and Python.
 
 ---
