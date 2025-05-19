@@ -1,5 +1,4 @@
 # Tournament Engine for MPI Java Wrappers in Ingenious Framework (WIP)
-> **NOTE**: This project is still a work in progress. In particular, thorough testing on large scale tournament play must still be done. This first implementation, however, will suffice as a 2024 rw314 Project 2 (Gomuku) skeleton.
 
 ## Usage
 Run the game using the following command:
