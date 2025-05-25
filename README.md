@@ -19,8 +19,8 @@ This repository is a curated collection of programming and software development 
   Group project: Real-time collaborative markdown note-taking application with WebSocket integration.  
   _Tech: React, Tailwind CSS, Node.js, PostgreSQL_
 
-- AMPL Compiler
-  Built full compilers for the SIMPL & AMPL languages including lexical analysis, parsing, semantic checks, and code generation targeting the JVM via Jasmin.
+- SIMPL Compiler
+  Built full compilers for the SIMPL language including lexical analysis, parsing, semantic checks, and code generation targeting the JVM via Jasmin.
 
 - Image Compression with Automata
   Used automata theory to compress and decompress black-and-white images by mapping pixel addresses to finite automata representations.
