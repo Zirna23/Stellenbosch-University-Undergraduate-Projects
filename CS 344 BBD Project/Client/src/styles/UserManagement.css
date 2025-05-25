@@ -1,0 +1,102 @@
+/* General container styles */
+.custom-sidebar {
+    background-color: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+    height: 100vh; /* Ensure the sidebar spans the entire height */
+}
+
+
+
+.custom-nav-link-container {
+    max-width: 300px; /* Adjust the width as needed */
+    overflow: hidden;
+    white-space: nowrap; /* Prevent text from wrapping */
+    text-overflow: ellipsis; /* Add ellipsis for overflowing text */
+}
+
+.custom-nav-link:hover {
+    color: #ed871f;
+}
+.custom-table {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-table thead {
+    background-color: #ed871f;
+    color: #fff;
+}
+
+.custom-table th,
+.custom-table td {
+    vertical-align: middle;
+}
+.custom-nav-link-container {
+    max-width: 300px; /* Adjust the width as needed */
+    overflow: hidden;
+    white-space: nowrap; /* Prevent text from wrapping */
+    text-overflow: ellipsis; /* Add ellipsis for overflowing text */
+}
+.custom-button {
+    background-color: orange;
+    color: black;
+    border: none;
+    font-weight: bold;
+}
+
+.custom-button:hover {
+    background-color: darkorange;
+    color: black;
+}
+
+/* Modal styles */
+.modal-content {
+    border-radius: 10px;
+}
+
+.modal-header {
+    background-color: #ed871f;
+    color: #fff;
+    border-bottom: 1px solid #ed871f;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-footer .btn-primary {
+    background-color: #ed871f;
+    border-color: #ed871f;
+}
+
+.modal-footer .btn-primary:hover {
+    background-color: #d76914;
+    border-color: #d76914;
+}
+
+.modal-footer .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.modal-footer .btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+/* Form styles inside the modal */
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 8px;
+    box-shadow: none;
+    border: 1px solid #ced4da;
+}
+
+.form-control:focus {
+    border-color: #ed871f;
+    box-shadow: 0 0 0 0.2rem rgba(237, 135, 31, 0.25);
+}

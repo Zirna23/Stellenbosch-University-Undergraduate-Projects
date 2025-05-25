@@ -1,0 +1,53 @@
+.custom-sidebar {
+    width: 10%;
+    /* Make the sidebar narrower */
+}
+
+.custom-nav-link {
+    color: black !important;
+    /* Change text color to black */
+}
+
+.custom-table {
+    border-radius: 10px;
+    /* Rounded edges for the table */
+    overflow: hidden;
+}
+
+.custom-table th,
+.custom-table td {
+    border: 1px solid #ddd;
+}
+
+
+.custom-table th:first-child {
+    border-top-left-radius: 10px;
+    /* Rounded top-left corner */
+}
+
+.custom-table th:last-child {
+    border-top-right-radius: 10px;
+    /* Rounded top-right corner */
+}
+
+.custom-table td:first-child {
+    border-bottom-left-radius: 10px;
+    /* Rounded bottom-left corner */
+}
+
+.custom-table td:last-child {
+    border-bottom-right-radius: 10px;
+    /* Rounded bottom-right corner */
+}
+
+.custom-button {
+    background-color: orange;
+    color: black;
+    border: none;
+    font-weight: bold;
+}
+
+.custom-button:hover {
+    background-color: darkorange;
+    color: black;
+}

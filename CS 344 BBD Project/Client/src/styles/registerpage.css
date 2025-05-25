@@ -1,0 +1,39 @@
+.register-page-container {
+    background-image: url("/assets/background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    font-size: 1vw;
+}
+
+.indent-wrapper-register {
+    width: 50vw;
+    height: 88vh;
+    background-color: #d9d6d4;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.custom-button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.content-wrapper-register {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.input-field-wrapper-register {
+    width: 100%;
+}

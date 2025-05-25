@@ -1,0 +1,40 @@
+.inventory-page-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.layout-container {
+    flex-grow: 1;
+}
+
+.inventory-items {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.custom-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table-image {
+    object-fit: contain;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.custom-dropdown .btn-warning {
+    background-color: #ed871f;
+    border-color: #ed871f;
+}
+
+.custom-dropdown .btn-warning:hover,
+.custom-dropdown .btn-warning:focus,
+.custom-dropdown .btn-warning:active {
+    background-color: #ed871f;
+    border-color: #ed871f;
+}

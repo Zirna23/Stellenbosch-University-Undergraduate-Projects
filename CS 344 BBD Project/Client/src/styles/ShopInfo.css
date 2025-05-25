@@ -1,0 +1,26 @@
+.shop-table {
+    width: auto !important;
+    max-width: 100%;
+}
+
+.shop-table th,
+.shop-table td {
+    white-space: normal;
+    width: 1%;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.shop-table th:nth-child(2),
+.shop-table td:nth-child(2) {
+    min-width: 150px;
+    /* Adjust for Address column */
+}
+
+.shop-table th:nth-child(4),
+.shop-table td:nth-child(4) {
+    min-width: 375px;
+    /* Adjust for Times column */
+}

@@ -1,0 +1,20 @@
+/* src/styles/Categories.css */
+.custom-sidebar {
+    background-color: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+    height: 100vh;
+}
+
+.custom-nav-link {
+    font-size: 1.2rem;
+    color: #333;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.custom-nav-link:hover {
+    background-color: #ed871f;
+    color: white !important;
+}

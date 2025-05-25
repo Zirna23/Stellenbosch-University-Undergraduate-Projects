@@ -1,0 +1,30 @@
+/* src/pages/Cart.css */
+.custom-cart-item {
+    background-color: #fff;
+    border-color: #ddd;
+  }
+  
+  .custom-cart-item .custom-button {
+    background-color: orange;
+    color: black;
+    border-color: orange;
+  }
+  
+  .custom-cart-item .custom-button:hover {
+    background-color: darkorange;
+    color: black;
+    border-color: darkorange;
+  }
+  
+  .custom-button {
+    background-color: orange;
+    color: black;
+    border-color: orange;
+  }
+  
+  .custom-button:hover {
+    background-color: darkorange;
+    color: black;
+    border-color: darkorange;
+  }
+  
